@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/netflix/static/css/main.8199fe15.chunk.css",
+    "main.js": "/netflix/static/js/main.c562f27f.chunk.js",
+    "main.js.map": "/netflix/static/js/main.c562f27f.chunk.js.map",
+    "runtime-main.js": "/netflix/static/js/runtime-main.5625af0b.js",
+    "runtime-main.js.map": "/netflix/static/js/runtime-main.5625af0b.js.map",
+    "static/js/2.8f8502c6.chunk.js": "/netflix/static/js/2.8f8502c6.chunk.js",
+    "static/js/2.8f8502c6.chunk.js.map": "/netflix/static/js/2.8f8502c6.chunk.js.map",
+    "index.html": "/netflix/index.html",
+    "precache-manifest.34d40987e6331bf895f4eabb2857afd0.js": "/netflix/precache-manifest.34d40987e6331bf895f4eabb2857afd0.js",
+    "service-worker.js": "/netflix/service-worker.js",
+    "static/css/main.8199fe15.chunk.css.map": "/netflix/static/css/main.8199fe15.chunk.css.map",
+    "static/js/2.8f8502c6.chunk.js.LICENSE.txt": "/netflix/static/js/2.8f8502c6.chunk.js.LICENSE.txt",
+    "static/media/BB.jpg": "/netflix/static/media/BB.7f70832e.jpg",
+    "static/media/BH.jpg": "/netflix/static/media/BH.d47319d8.jpg",
+    "static/media/Dark1.jpg": "/netflix/static/media/Dark1.d2f07e53.jpg",
+    "static/media/LK.jpg": "/netflix/static/media/LK.2a220ec6.jpg",
+    "static/media/ST.jpg": "/netflix/static/media/ST.764f3c1a.jpg",
+    "static/media/TW.jpg": "/netflix/static/media/TW.da5033f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5625af0b.js",
+    "static/js/2.8f8502c6.chunk.js",
+    "static/css/main.8199fe15.chunk.css",
+    "static/js/main.c562f27f.chunk.js"
+  ]
+}
